@@ -13,8 +13,6 @@ Clean and prepare the E-Commerce dataset by handling missing values, converting 
 - Checking and removing the extreme outliers to ensure the analyzation is not going to be skewed.
 - Cleaned dataset is saved for further analyzation and visualization. 
 
-## Outcome
-Cleaned dataset saved as `Ecommerce_cleaning_dataset.csv`, ready for analysis or visualization projects.
-
 ## Tools
+
 Python (Pandas, NumPy, Matplotlib, Seaborn) | Jupyter Notebook
