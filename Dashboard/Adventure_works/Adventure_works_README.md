@@ -6,7 +6,8 @@ To create an organized dashboard to present the **performance of the business** 
 ---
 
 ## 🔑 Key Insights
-- **Revenue Growth**: Revenue has been steadily rising, showing consistent business growth.  
+- **Revenue Growth**:
+  - Revenue has been steadily rising, showing consistent business growth.  
 - **Product Trends**:  
   - Accessories are the most frequently ordered items.  
   - Bikes contribute the most to overall revenue.  
