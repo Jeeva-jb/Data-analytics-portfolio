@@ -5,6 +5,7 @@ To create an organized dashborad to present the performace of the business on th
 focus on for rapid growth.
 
 **Key Insights:** 
+
 1.The revenue has been steadily rising, a sign that the company is generating more money than it did in prior months.When compared to
 other products, accessories are the most frequently ordered. However,among other products, the bikes bring in the most revenue. 
 
