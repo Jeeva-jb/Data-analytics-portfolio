@@ -1,6 +1,7 @@
 **Adventure_Works - PowerBI Dashboard**
 
 **Objective:**
+
 To create an organized dashborad to present the performace of the business on the market and also the key areas the business should
 focus on for rapid growth.
 
@@ -25,6 +26,8 @@ pays attention to all demographics and offering goods and services that meet the
 6.Overall, Adventure Works is a profitable business with low returns, but order growth is slightly below expectations. Expansion in Europe/Pacific regions and
 customer loyalty strategies can drive future growth.
 
-**Tools Used:** -
+**Tools Used:** 
+
 -Power Query Editor
+
 -PowerBI
