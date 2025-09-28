@@ -7,7 +7,7 @@ Exploratory Data Analysis (EDA) on E-commerce Business
 
 ## 💡 Objective
 
-The primary objectives of this EDA are to:****
+The primary objectives of this EDA are to:
 
 1.  **Ensuring Data Integrity:** Implementing robust data cleaning to handle missing values (especially in `CustomerID`), correct data types (e.g., converting `InvoiceDate` to datetime), and filter out invalid or cancelled transactions (negative `Quantity`).
 2.  **Determine Key Relationships:** Use correlation analysis (heatmaps) to quantify the linear relationships between numerical variables. 
@@ -31,3 +31,4 @@ The entire analysis pipeline was conducted using the following standard Python l
 * **Pandas:** Essential for data loading, cleaning, manipulation, and time-series analysis.
 * **NumPy:** Used for high-performance numerical operations.
 * **Seaborn & Matplotlib:** Core libraries for creating professional and informative data visualizations (heatmaps, histograms, bar plots).
+
