@@ -18,8 +18,8 @@ A mini banking system database that manages customers, accounts, transactions, a
 ## 📝 Analysis
 - Total balance of each customer
 - Top borrowers with highest loan amounts
-- Analyze deposits vs withdrawals
-- Track transaction history of an account
+- Analyzed deposits vs withdrawals
+- Tracked transaction history of an account
 
 ## 🛠️ Tools
 - MySQL
@@ -28,3 +28,4 @@ A mini banking system database that manages customers, accounts, transactions, a
 
 ## ✅ Outcome
 This project demonstrates database design, normalization, and SQL query skills. 
+
